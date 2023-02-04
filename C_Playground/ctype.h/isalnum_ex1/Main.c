@@ -1,6 +1,11 @@
 /****************************************************************************/
 /* int isalnum ( int c );													*/
 /* checks if character is alphanumeric: (0..9, a..z, A..Z)                  */
+//48 - 57		0123456789
+//65 - 70		ABCDEF
+//71 - 90		GHIJKLMNOPQRSTUVWXYZ
+//97 - 102	    abcdef
+//103 - 122	    ghijklmnopqrstuvwxyz
 /****************************************************************************/
 
 #include <stdio.h>

@@ -1,6 +1,10 @@
 /****************************************************************************/
 /* int isalpha ( int c );													*/
 /* checks if character is alphabetic: (a..z, A..Z)                          */
+//65 - 70		ABCDEF
+//71 - 90		GHIJKLMNOPQRSTUVWXYZ
+//97 - 102	    abcdef
+//103 - 122	    ghijklmnopqrstuvwxyz
 /****************************************************************************/
 #include <stdio.h>
 #include <ctype.h>
