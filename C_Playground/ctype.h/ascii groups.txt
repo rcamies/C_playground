@@ -1,0 +1,15 @@
+0-8		NUL, SOH, STX, ETX, EOF, ENQ, ACK, BEL, BS
+9		<tab> (\t)
+10 - 13		LF (\n), VT(\v), FF(\f), CR(\r)
+14-31		SO, SI, DLE, DC1, DC2, DC3, DC4, NAK, SYN, ETB, CAN, EM, SUB, ESC, FS, GS, RS, US
+32		<space> (SP)
+33-47		!"#$%&'()*+,-./
+48-57		0123456789
+58-64		:;<=>?@
+65-70		ABCDEF
+71-90		GHIJKLMNOPQRSTUVWXYZ
+91-96		[\]^_`
+97-102	abcdef
+103-122	ghijklmnopqrstuvwxyz
+123-126	{|}~
+127		<DEL>
